@@ -1,0 +1,41 @@
+Bash:
+
+pwd
+cd
+ls
+clear
+.
+..
+~
+
+Git:
+
+offline commands:
+git init
+git status
+git add .
+git commit -m "message"
+git log
+
+online commands:
+git clone [web address here]
+git remote add origin [web address here]
+git push origin master
+git push
+git pull origin master
+git pull
+
+easiest way to make new repository:
+-create repo online with a readme
+-clone repo onto computer
+-move project into that folder
+-commit
+-push
+
+optional:
+git fetch - move changed code onto computer but in a different branch
+git merge - takes two branches and merges them together
+
+
+
+
